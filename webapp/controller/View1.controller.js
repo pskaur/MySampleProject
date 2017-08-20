@@ -5,5 +5,8 @@ sap.ui.define([
 
 	return Controller.extend("test.comMyGitProject.controller.View1", {
 
+onInit:function(){
+	
+}
 	});
 });
